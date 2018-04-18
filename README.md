@@ -20,8 +20,8 @@ Joseee the designer man, does ideas and poof tell everyone else to make his idea
 #### Tam
 Not his real name, does the artsy fartsies
 
-#### Barneby
-Bboi! art dude! makes stuff and stuff
+#### Barnaby
+Hay, I’m one of the artists working on this project, I helped with concepting the prop modelling. My specialism is illustration but with this project I’ve tried to get better with concepting characters and environments as well prop design. It took me some time to get the hang of what I was doing but over all I’ve enjoyed the experience and I’ve learned a lot during this project.
 
 #### Stan
 Programmer? maybe? kinda?
