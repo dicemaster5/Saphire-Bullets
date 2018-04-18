@@ -1,6 +1,8 @@
 ## About
+Sapphire bullets is a local 4 player versus game. The main mechanic of the game revolves around players collecting special ammunition and firing it upon your enemies. Built on top of this there are also pickups that inchance the player for the match permanently. All of this taking place in a Futuristic Blade Runner like cyberpunk world. The game is a fun and exciting multiplayer experience.
 
-Info about the game and stuff
+### Controls
+
 
 ### Images
 images and videos of the game
