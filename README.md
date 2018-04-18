@@ -33,7 +33,7 @@ Hey I'm Sam, I'm one of the programmers on the team, I started off this project 
 (_(_)::::Says::he::wants::to::be::the::UI:programmer::and::does::about::10%::of::it::then::runs::away::::D
 
 #### Eric
-Animation dude, eats cookies and says weird stuff.
+Animation dude, eats cookies and says weird Shit.
 
 ### Contact
 
