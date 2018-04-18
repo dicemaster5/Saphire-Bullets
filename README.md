@@ -2,11 +2,11 @@
 Sapphire bullets is a local 4 player versus game. The main mechanic of the game revolves around players collecting special ammunition and firing it upon your enemies. Built on top of this there are also pickups that inchance the player for the match permanently. All of this taking place in a Futuristic Blade Runner like cyberpunk world. The game is a fun and exciting multiplayer experience.
 
 ### Controls
-
+![Screenshot of the game](UI_ControllerLayout.png)
 
 ### Images
 images and videos of the game
-
+UI_ControllerLayout.png
 ![Screenshot of the game](screenshot1.PNG)
 ![Screenshot of the game](screenshot2.PNG)
 
