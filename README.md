@@ -5,7 +5,7 @@ Info about the game and stuff
 ### Images
 images and videos of the game
 
-[Link](url) and ![Image](src)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
