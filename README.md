@@ -12,6 +12,10 @@ UI_ControllerLayout.png
 ![Screenshot of the game](screenshot1.PNG)
 ![Screenshot of the game](screenshot2.PNG)
 
+Promotional video of an older version of game
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/wb1MsIN910I/0.jpg)](http://www.youtube.com/watch?v=wb1MsIN910I "Video Title")
+
 ### The team
 We are Coffee break studios!
 We are a 7 man team of highly motivated students ready to create new and intresting games.
