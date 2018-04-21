@@ -32,5 +32,5 @@ Hey im Stan, one of the BSc programmers and i was responsible for coding all the
 Hey I'm Sam, I'm one of the programmers on the team, I started off this project by making the early prototype of the game from what the team had designed together. I then carried on development as the lead gameplay programmer and worked on most parts of the game while iterating on all the different gameplay aspects that the designer would come up with. I have really enjoyed this project despite not being really that knowedgeable in using Unreal.
 
 #### Eric
-Animation dude, eats cookies and says weird Shit.
+Hi, I'm Eric. I'm the 3D animator for this game project. I am responsible for everything the player character does right and wrong in terms of movement so if someone moves weirdly don't hesitate to blame that on me. I stared development by assisting the 3D character artist in creating a player character that would function well in the game. I then moved on to rigging and skin weighting the character so I could start animating for the game, which leads us to the finished game where I made all animations.
 
