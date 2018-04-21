@@ -17,7 +17,7 @@ We are Coffee break studios!
 We are a 7 man team of highly motivated students ready to create new and intresting games.
 
 #### Jose
-Joseee the designer man, does ideas and poof tell everyone else to make his ideas real.
+Hi im Jose, my role in the team is lead designer. During initial stages i worked as a systems designer and made the GDD for the game. As development went on I started to focus on building levels and adjusting the game feel. Near the end i was working as a programer, making the pickups and prototyping small idea to enhance gameplay, and i also worked to adjust the little things in the game, putting assets in, working on the lighting, adding audio, etc…  This project has been great fun and a real learning experience both in learning how to design and how to work within a team environment.
 
 #### Tam
 Not his real name, does the artsy fartsies
@@ -30,9 +30,6 @@ Hey im Stan, one of the BSc programmers and i was responsible for coding all the
 
 #### Sam
 Hey I'm Sam, I'm one of the programmers on the team, I started off this project by making the early prototype of the game from what the team had designed together. I then carried on development as the lead gameplay programmer and worked on most parts of the game while iterating on all the different gameplay aspects that the designer would come up with. I have really enjoyed this project despite not being really that knowedgeable in using Unreal.
-
-### Scott
-UI programmer? eh idk
 
 #### Eric
 Animation dude, eats cookies and says weird Shit.
