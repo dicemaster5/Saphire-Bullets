@@ -18,7 +18,7 @@ Promotional video of an older version of game
 
 ### The team
 We are Coffee break studios!
-We are a 7 man team of highly motivated students ready to create new and intresting games.
+We are a team of highly motivated students ready to create new and intresting games.
 
 #### Jose
 Hi im Jose, my role in the team is lead designer. During initial stages i worked as a systems designer and made the GDD for the game. As development went on I started to focus on building levels and adjusting the game feel. Near the end i was working as a programer, making the pickups and prototyping small idea to enhance gameplay, and i also worked to adjust the little things in the game, putting assets in, working on the lighting, adding audio, etc…  This project has been great fun and a real learning experience both in learning how to design and how to work within a team environment.
