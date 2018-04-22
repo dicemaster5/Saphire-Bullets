@@ -25,7 +25,6 @@ Control scheme layout for the controls on a xbox controller.
 
 ### Images
 images and videos of the game
-UI_ControllerLayout.png
 ![Screenshot of the game](screenshot1.PNG)
 ![Screenshot of the game](screenshot2.PNG)
 
