@@ -13,6 +13,15 @@ The game is meant to be played with controllers to allow up to 4 player to play.
 Control scheme layout for the controls on a xbox controller.
 ![Screenshot of the game](UI_ControllerLayout.png)
 
+##### Controls for player 1 on keyboard:  
+* WASD - for movement  
+* Arrow keys - for aiming  
+* Spacebar - for shooting  
+* C - for cathing  
+* V -  for punching  
+
+* ALT + F4 to close the game
+
 ### Images
 images and videos of the game
 UI_ControllerLayout.png
