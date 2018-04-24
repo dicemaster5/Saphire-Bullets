@@ -25,9 +25,10 @@ Control scheme layout for the controls on a xbox controller.
 
 ### Images
 images and videos of the game
-![Screenshot of the game](screenshot1.PNG)
-![Screenshot of the game](screenshot2.PNG)
-
+![Screenshot of the game](Screenshot1.PNG)
+![Screenshot of the game](Screenshot2.PNG)
+![Screenshot of the game](Screenshot3.PNG)
+![Screenshot of the game](Screenshot4.PNG)
 Promotional video of an older version of game
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/wb1MsIN910I/0.jpg)](http://www.youtube.com/watch?v=wb1MsIN910I "Video Title")
@@ -49,8 +50,50 @@ Hay, I’m one of the artists working on this project, I helped with concepting 
 Hey im Stan, one of the BSc programmers and i was responsible for coding all the little parts of the game. I coded the ability to dash and the first ammo pick up, which was the foundation for the other pick ups in the game, as well as the melee attack. I also experimented with aiming lasers and knock back abilitys on the dashes and melee.  coding the dash was very simple to make, i just used the the launch character function to propel the character in the direction theyre facing, i also created a dash variable so you can alter the amount of distance covered. The ammo pick up was also simple to make, i just made a new pawn actor with a collision detector that would give the weapon more ammo once the player runs over it.
 
 #### Sam
-Hey I'm Sam, I'm one of the programmers on the team, I started off this project by making the early prototype of the game from what the team had designed together. I then carried on development as the lead gameplay programmer and worked on most parts of the game while iterating on all the different gameplay aspects that the designer would come up with. I have really enjoyed this project despite not being really that knowedgeable in using Unreal, but over the course of the project I have learnt a lot, about working effectively with a team and using blueprints in Unreal.[Link to my Research Poster](ResearchPoster.jpg) exlpaining the player class system
+Hey I'm Sam, I'm one of the programmers on the team, I started off this project by making the early prototype of the game from what the team had designed together.  
+I carried on development as the lead gameplay programmer and worked on most parts of the game while iterating on all the different gameplay aspects that the designer would come up with.  
+I have really enjoyed this project despite not being really that knowedgeable in using Unreal, but over the course of the project I have learnt a lot, about working effectively with a team and using blueprints in Unreal.  
+
+[Link to my Research Poster](ResearchPoster.jpg) exlpaining the player class system  
+
+Some Blueprint snippets that I was mostly responsible for creating:
+
+The main meny, buttons and UI
+![Sam's BP screenshot](BPsnippet1.PNG)  
+
+The gamemode blueprint that changes the map when one last player is alive
+![Sam's BP screenshot](BPsnippet3.PNG)  
+
+The Player class
+![Sam's BP screenshot](BPsnippet4.PNG)  
+
+The weapon class
+![Sam's BP screenshot](BPsnippet5.PNG)  
+
+The bullet class
+![Sam's BP screenshot](BPsnippet6.PNG)  
+
 
 #### Eric
-Hi, I'm Eric. I'm the 3D animator for this game project. I am responsible for everything the player character does right and wrong in terms of movement so if someone moves weirdly don't hesitate to blame that on me. I stared development by assisting the 3D character artist in creating a player character that would function well in the game. I then moved on to rigging and skin weighting the character so I could start animating for the game, which leads us to the finished game where I made all animations.
+Hi, I'm Eric. I'm the 3D animator for this game project. I am responsible for everything the player character does right and wrong in terms of movement so if someone moves weirdly don't hesitate to blame that on me. I stared development by assisting the 3D character artist in creating a player character that would function well in the game. I then moved on to rigging and skin weighting the character so I could start animating for the game, which leads us to the finished game where I made all animations.  
 
+
+
+
+##### Scott
+Who am I?
+I am a newbie programmer studying Computer Science for game
+development at Falmouth university.
+I am very interested in 'gamification' and the application of
+computer science in education and e-health. I am also
+very intrigued by the social/ psychological effects computer
+science and games have on individuals and societies.
+For my first group game project I was involved in construction and
+programming of the games UI and main menu. Programming these
+aspects
+only required a limited knowledge of both unreal and programming
+and was an excellent way for me to be introduced to
+the game's engine.
+Although my contribution to the overall game is not extensive, it
+has lead me to better understand programming and the use of
+Unreal. 
