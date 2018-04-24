@@ -61,19 +61,24 @@ Some Blueprint snippets that I was responsible for creating:
 
 #### The main menu, buttons and UI
 ![Sam's BP screenshot](BPsnippet1.PNG)  
+Simple UI in UE4 was simple and quite fun to make.
 
 #### The gamemode blueprint that changes the map when one last player is alive
 ![Sam's BP screenshot](BPsnippet3.PNG)  
+This blueprint was very impoirtant to make to create the gameplay loop and have the game change map once a game has ended, without it you had to restart the game all over again just to change map.
 
 #### The Player class
 ![Sam's BP screenshot](BPsnippet4.PNG)
+The Player class was probably the most complex part of the game, as it handled most of the game mechanics that allowed the players to play around. Took a lot of playtesting to get certain elements right.
 Thinking back about it, I should of turned more of these blueprints into actual functions to be resused, it would of helped to make the player class easier to look at and faster to go thourgh when going back to it.  
 
 #### The weapon class
 ![Sam's BP screenshot](BPsnippet5.PNG)  
+The weapon class was sometimes quite difficult to implament alongisde the player class, but overall I think I managed to create some good solutions.
 
 #### The bullet class
 ![Sam's BP screenshot](BPsnippet6.PNG)  
+For the bullet classes I created a base bullet class that had the base functionatlies that all types of bullets had, and I made every other bullet type be a child of the base bullet, good case of inheritence being used. We also did this for pickups.
   
 Overall I have really enjoyed this project, despite not being really that knowedgeable in using Unreal, but over the course of the project I have learnt a lot, about working effectively with a team and using blueprints in Unreal.  
 
