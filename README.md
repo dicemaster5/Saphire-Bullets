@@ -52,13 +52,12 @@ Hey im Stan, one of the BSc programmers and i was responsible for coding all the
 ### Sam
 Hey I'm Sam, I'm one of the programmers on the team, I started off this project by making the early prototype of the game from what the team had designed together.  
 I carried on development as the lead gameplay programmer and worked on most parts of the game while iterating on all the different gameplay aspects that the designer would come up with.  
-I have really enjoyed this project despite not being really that knowedgeable in using Unreal, but over the course of the project I have learnt a lot, about working effectively with a team and using blueprints in Unreal.  
 
 [Link to my Research Poster](ResearchPoster.jpg) exlpaining the player class system  
 
 Some Blueprint snippets that I was responsible for creating:
 
-#### The main meny, buttons and UI
+#### The main menu, buttons and UI
 ![Sam's BP screenshot](BPsnippet1.PNG)  
 
 #### The gamemode blueprint that changes the map when one last player is alive
@@ -66,14 +65,15 @@ Some Blueprint snippets that I was responsible for creating:
 
 #### The Player class
 ![Sam's BP screenshot](BPsnippet4.PNG)
-Thinking back about it, I should of turned more of these blueprints into actual functions to be resused, it would of helped to make the player class easier to look at and faster to go thourgh when going back to it.
+Thinking back about it, I should of turned more of these blueprints into actual functions to be resused, it would of helped to make the player class easier to look at and faster to go thourgh when going back to it.  
 
 #### The weapon class
 ![Sam's BP screenshot](BPsnippet5.PNG)  
 
 #### The bullet class
 ![Sam's BP screenshot](BPsnippet6.PNG)  
-
+  
+Overall I have really enjoyed this project, despite not being really that knowedgeable in using Unreal, but over the course of the project I have learnt a lot, about working effectively with a team and using blueprints in Unreal.  
 
 ### Eric
 Hi, I'm Eric. I'm the 3D animator for this game project. I am responsible for everything the player character does right and wrong in terms of movement so if someone moves weirdly don't hesitate to blame that on me. I stared development by assisting the 3D character artist in creating a player character that would function well in the game. I then moved on to rigging and skin weighting the character so I could start animating for the game, which leads us to the finished game where I made all animations.  
