@@ -29,9 +29,11 @@ images and videos of the game
 ![Screenshot of the game](Screenshot2.PNG)
 ![Screenshot of the game](Screenshot3.PNG)
 ![Screenshot of the game](Screenshot4.PNG)
-Promotional video of an older version of game
+Promotional video of an older version of game  
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/wb1MsIN910I/0.jpg)](http://www.youtube.com/watch?v=wb1MsIN910I "Video Title")  
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/wb1MsIN910I/0.jpg)](http://www.youtube.com/watch?v=wb1MsIN910I "Video Title")
+video explanation of the game  
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/fGfzhaibm0o/0.jpg)](http://www.youtube.com/watch?v=fGfzhaibm0o "Video Title")
 
 ### The team
 We are Coffee break studios!
